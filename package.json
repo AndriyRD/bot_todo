@@ -1,0 +1,17 @@
+{
+  "name": "telegram_todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.7.0",
+    "node-telegram-bot-api": "^0.58.0"
+  }
+}
